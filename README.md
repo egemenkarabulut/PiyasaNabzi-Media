@@ -1,7 +1,5 @@
 # PiyasaNabzi — Media (Assets Deposu)
 
-![sample post](FonPulse-Snapshot-4F-Daily/fonpulse_2026-07-10.png)
-
 **Ne içerir:** PiyasaNabzi otomasyon zincirlerinin (FonPulse, HissePulse vb.)
 her gün ürettiği paylaşıma hazır **PNG görselleri** barındıran statik
 assets deposu. Bu depo kod içermez; Telegram/Facebook/Instagram'a
